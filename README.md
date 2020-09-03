@@ -32,7 +32,7 @@ The goals / steps of this project are the following:
  
 
 
-#### 4. Model Training Results
+#### 3. Model Training Results
 
 ![](assets/9.png)
  
